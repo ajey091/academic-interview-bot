@@ -29,8 +29,8 @@ This is a PyQt6-based application that simulates an academic job interview for a
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_directory>
+    git clone https://github.com/ajey091/academic-interview-bot.git
+    cd academic-interview-bot
     ```
 
 2.  **Install dependencies:**
@@ -76,14 +76,9 @@ This is a PyQt6-based application that simulates an academic job interview for a
 
 3.  **Run the application:**
     ```bash
-    python your_script_name.py
+    python interview_bot.py
     ```
-    (Replace `your_script_name.py` with the actual name of your Python file.)
 
 ## Contributing
 
 Feel free to submit pull requests or open issues to suggest improvements or report bugs.
-
-## License
-
-[Choose a license and add information here.  MIT License is a common choice for open-source projects.]
